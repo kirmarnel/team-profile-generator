@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Creates team profiles based on user input",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirmarnel/team-profile-generator.git"
+  },
+  "author": "Kirsten Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirmarnel/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/kirmarnel/team-profile-generator#readme"
+}
