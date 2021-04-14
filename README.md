@@ -4,7 +4,7 @@
 This project takes in user input via node and then renders an html page displaying a team profile. 
 
 ## Demo
-![Screenshot1](assets/Demo.png) 
+![Screenshot1](Assets/Demo.png) 
 
 Demo Video: https://youtu.be/9rNWTLjQWSQ 
 ## Table of Contents 
