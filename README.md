@@ -5,6 +5,7 @@ This project takes in user input via node and then renders an html page displayi
 
 ## Demo
 ![Screenshot1](assets/Demo.png) 
+
 Demo Video: https://youtu.be/9rNWTLjQWSQ 
 ## Table of Contents 
     
